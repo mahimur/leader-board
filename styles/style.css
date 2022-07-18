@@ -119,6 +119,10 @@ hr {
     font-size: 20px;
 }
 
+.course-author {
+    color: #ED6B4F;
+}
+
 .course-info {
     display: flex;
     align-items: center;
